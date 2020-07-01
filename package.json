@@ -1,0 +1,27 @@
+{
+  "name": "scraper-tool-tokohijau",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rekamsari5696/scraper-tool-tokohijau.git"
+  },
+  "keywords": [],
+  "author": "rekam sari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rekamsari5696/scraper-tool-tokohijau/issues"
+  },
+  "homepage": "https://github.com/rekamsari5696/scraper-tool-tokohijau#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "json2csv": "^5.0.1",
+    "moment": "^2.26.0",
+    "puppeteer": "^3.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
