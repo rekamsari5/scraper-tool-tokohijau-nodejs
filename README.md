@@ -33,6 +33,7 @@ node index.js \
 ## Limitation
 - On the shop mode, this tool will be crawling all products, you cannot specify how many pages will be downloaded.
 - Scope of data that will be gathered is:
-> title, rating, price, total_reviewer, total_sold, seen_counter, weight, weight_unit, shop_name, shop_region, is_power_merchant
+> title, rating, total_reviewer, total_sold, seen_counter, price, weight, weight_unit, shop_name, shop_region, is_power_merchant, date
+
 
 
