@@ -1,7 +1,8 @@
 
 ## Getting Started
 - You must have been installed node js version v12.18.0.
-- You must have been installed Node library : Puppeteer, json2csv, fs, readline-sync
+- You must have been installed Node library : Puppeteer, json2csv, fs, readline-sync.
+- Server using Linux Nginx Digitalocean
 
 
 ## Usage & Example
